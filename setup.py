@@ -31,7 +31,7 @@ _INSTALL_REQUIRES = [
     "pep8-naming>=0.3.3,<=0.10.0",
     "pydocstyle>=2.0.0",
     "pylint==2.7.2",
-    "pylint-django<2.2.0",
+    "pylint-django<=2.4.4",
     "astroid==2.5.1",
 ]
 
